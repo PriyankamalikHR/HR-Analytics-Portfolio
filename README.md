@@ -1,14 +1,22 @@
 # HR-Analytics-Portfolio
 HR Analytics portfolio project using Power BI – Employee Attrition Analysis with interactive dashboard and DAX measures.
 
+---
 
-
+##  Project Description
 This HR analytics project is built using **Power BI** to analyze employee attrition and key workforce metrics.  
 The dashboard helps understand attrition patterns and supports data-driven HR decision-making.
 
 ---
 
-##  Key Insights Covered
+## Dataset Source
+- Dataset: HR Analytics – Employee Attrition Dataset  
+- Source: Kaggle  
+- Description: The dataset contains employee-level information such as age, department, job role, gender, attrition status, and other HR-related attributes used for attrition analysis.
+
+---
+
+##  Key Insights 
 - Total Employees  
 - Attrition Count (Yes / No)  
 - Attrition Rate (%)  
@@ -19,15 +27,16 @@ The dashboard helps understand attrition patterns and supports data-driven HR de
 
 ---
 
-## Dataset Source
+## Key Business Insights
 
-- Dataset: HR Analytics – Employee Attrition Dataset  
-- Source: Kaggle  
-- Description: The dataset contains employee-level information such as age, department, job role, gender, attrition status, and other HR-related attributes used for attrition analysis.
+- Highest attrition observed in Research & Development department, indicating potential workload or role-fit challenges.
+- Sales department shows moderate attrition, suggesting performance pressure may influence employee exits.
+- Attrition rate is higher among male employees compared to female employees.
+- Employees in specific job roles contribute disproportionately to overall attrition, highlighting areas for targeted retention strategies.
 
 ---
 
- ##  Tools & Skills Used
+ ##  Tools Used
 - Power BI  
 - DAX Measures  
 - Data Cleaning & Modeling  
