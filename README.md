@@ -19,7 +19,15 @@ The dashboard helps understand attrition patterns and supports data-driven HR de
 
 ---
 
-##  Tools & Skills Used
+## Dataset Source
+
+- Dataset: HR Analytics – Employee Attrition Dataset  
+- Source: Kaggle  
+- Description: The dataset contains employee-level information such as age, department, job role, gender, attrition status, and other HR-related attributes used for attrition analysis.
+
+---
+
+ ##  Tools & Skills Used
 - Power BI  
 - DAX Measures  
 - Data Cleaning & Modeling  
