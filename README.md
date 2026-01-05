@@ -2,7 +2,7 @@
 HR Analytics portfolio project using Power BI – Employee Attrition Analysis with interactive dashboard and DAX measures.
 #  HR Analytics Portfolio – Power BI
 
-##  Project: Employee Attrition Analysis Dashboard
+
 
 This HR analytics project is built using **Power BI** to analyze employee attrition and key workforce metrics.  
 The dashboard helps understand attrition patterns and supports data-driven HR decision-making.
